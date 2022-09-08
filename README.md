@@ -1,8 +1,8 @@
 **Blogger-App**
 
 Key Features:
-# Blogging
-# Navigation
+1. Blogging
+2. Navigation
 
 Layout-
-![image](https://user-images.githubusercontent.com/15225177/189069540-7d5092d7-d2ec-4b64-8de8-16a2d343a568.png)
+![image](https://user-images.githubusercontent.com/15225177/189070029-0d99f0d7-598c-48f0-999f-8e5ba425b673.png)
